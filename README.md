@@ -1,0 +1,2 @@
+# serverRule
+A minecraft plugin
