@@ -1,0 +1,9 @@
+name: serverRule
+main: com.t2o0n321.serverRule.main
+author: t2o0n321
+version: 1.0.1
+api-version: 1.16
+commands:
+  tpt:
+    description: tp to specific player
+    usage: /tpt <player>
